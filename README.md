@@ -53,22 +53,6 @@ This is a simple task management application built with React and Vite. The app 
 - **Completing a Task**: Click on the task title to toggle its completion status.
 - **Deleting a Task**: Click the trash icon next to a task to delete it.
 
-## File Structure
-
-src/
-├── components/
-│ ├── AddTask.jsx
-│ ├── Button.jsx
-│ ├── Input.jsx
-│ ├── Tasks.jsx
-│ └── Title.jsx
-├── pages/
-│ └── TaskPage.jsx
-├── App.jsx
-├── main.jsx
-├── index.css
-└── App.css
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
